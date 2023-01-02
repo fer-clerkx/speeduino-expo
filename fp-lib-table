@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Speeduino-lib")(type "KiCad")(uri "${KIPRJMOD}/Speeduino-lib.pretty")(options "")(descr ""))
+)

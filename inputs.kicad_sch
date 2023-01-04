@@ -1366,7 +1366,7 @@
     (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 227.33 50.8 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp720_datasheet.pdf.pdf" (id 3) (at 228.6 41.91 0)
+    (property "Datasheet" "~" (id 3) (at 228.6 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Digikey Part Number" "1869378" (id 4) (at 0 73.66 0)

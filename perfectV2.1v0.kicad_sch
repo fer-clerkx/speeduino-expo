@@ -1641,10 +1641,10 @@
     (path "/00000000-0000-0000-0000-00005cd18d89/00000000-0000-0000-0000-00005cdad23c"
       (reference "#PWR0151") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005cd18d89/f7d7b093-d047-4fd9-b006-8d2492c14e36"
+    (path "/00000000-0000-0000-0000-00005cd18d89/14ba52de-8376-4a13-8bfa-f8b2abb84f28"
       (reference "#PWR0152") (unit 1) (value "+12V") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005cd18d89/bb14355b-776e-421e-9732-a144f4e327c5"
+    (path "/00000000-0000-0000-0000-00005cd18d89/53fb7c9b-c8b0-4a3f-8d59-1f7c0cc0d10e"
       (reference "#PWR0153") (unit 1) (value "VDDA") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005cd18d89/4fafd54f-166f-45bb-84d1-07863230b5ae"
@@ -1760,9 +1760,6 @@
     )
     (path "/00000000-0000-0000-0000-00005cdc3535/00000000-0000-0000-0000-00005d7ab064"
       (reference "#PWR0191") (unit 1) (value "VDD") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005cdc3535/d884e539-4cc4-4883-877c-8c50e6fecfe2"
-      (reference "#PWR0192") (unit 1) (value "+12V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005cdc3535/00000000-0000-0000-0000-00005cdc719b"
       (reference "#PWR0193") (unit 1) (value "GND") (footprint "")
@@ -2095,16 +2092,13 @@
       (reference "J3") (unit 1) (value "MAP_Connector") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005cd191f5/00000000-0000-0000-0000-00005cef6605"
-      (reference "J4") (unit 1) (value "Conn_01x06") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal")
+      (reference "J4") (unit 1) (value "Conn_01x06") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005cdc3535/00000000-0000-0000-0000-00005cdc3855"
       (reference "J5") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005cdc3535/00000000-0000-0000-0000-00005cdc4418"
       (reference "J6") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
-    )
-    (path "/00000000-0000-0000-0000-00005cdc3535/00000000-0000-0000-0000-00005d405364"
-      (reference "J7") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005cdc3535/00000000-0000-0000-0000-00005ce26c70"
       (reference "J8") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")

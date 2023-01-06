@@ -1791,7 +1791,7 @@
     (uuid 00000000-0000-0000-0000-00005cef6605)
     (property "Reference" "J4" (id 0) (at 50.8 142.24 0))
     (property "Value" "Conn_01x06" (id 1) (at 50.8 144.78 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal" (id 2) (at 58.42 144.78 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" (id 2) (at 58.42 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 58.42 144.78 0)

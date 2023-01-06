@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 0174518-07)(type Legacy)(uri ${KIPRJMOD}/modules/0174518-07.mod)(options "")(descr "")(disabled))
+  (lib (name 174518-7)(type KiCad)(uri ${KIPRJMOD}/modules/174518-7.pretty)(options "")(descr ""))
+)

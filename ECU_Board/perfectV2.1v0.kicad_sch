@@ -6,8 +6,8 @@
 
   (title_block
     (title "Speeduino board for Teensy 4.1")
-    (date "2023-01-02")
-    (rev "5")
+    (date "2023-01-07")
+    (rev "6")
     (company "Fontys Eindhoven EXPO group 13 || Speeduino")
     (comment 1 "Adapted from Speeduino V0.4.4c board")
   )
@@ -560,6 +560,7 @@
   (no_connect (at 93.98 102.87) (uuid 99a4fe03-5541-4c1e-88c6-dbd80e04a2f5))
   (no_connect (at 154.94 53.34) (uuid 9ba643b9-2f10-487e-9478-689847f7913d))
   (no_connect (at 149.86 29.21) (uuid 9f049af8-6218-4650-9398-ba082c76d901))
+  (no_connect (at 154.94 83.82) (uuid 9fb2ad2c-2b2e-4bf9-8b52-7edc19eae03d))
   (no_connect (at 118.11 120.65) (uuid a45b3fdd-3c70-4a6c-9f14-081a76533d0b))
   (no_connect (at 93.98 96.52) (uuid ad7f73e2-c45e-409d-afb7-e29375ddedf4))
   (no_connect (at 154.94 88.9) (uuid bf685694-4614-4cf2-b54c-c0274d838025))
@@ -789,13 +790,6 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 13c3bf81-9d8e-48be-a14f-52548721ccf4)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 166.2431 60.8806 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
-  (global_label "MCU-CLUTCH" (shape input) (at 154.94 83.82 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 206556a8-a91c-465c-bb5d-09247874d106)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 170.1741 83.7406 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -1611,7 +1605,7 @@
     (path "/00000000-0000-0000-0000-00005cd18d89/00000000-0000-0000-0000-00005ce1fcb0"
       (reference "#PWR0141") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005cd18d89/00000000-0000-0000-0000-00005ce582eb"
+    (path "/bb0bb053-86b2-4a91-b561-8cb56049dc00/23c8741b-8c25-4778-8adb-5e9d1fd40157"
       (reference "#PWR0142") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005cd18d89/00000000-0000-0000-0000-00005cd19ede"
@@ -1863,9 +1857,6 @@
     (path "/bb0bb053-86b2-4a91-b561-8cb56049dc00/b37c9b36-1f22-47ff-86af-48e8e4c9e4f7"
       (reference "#PWR0226") (unit 1) (value "+3V3") (footprint "")
     )
-    (path "/bb0bb053-86b2-4a91-b561-8cb56049dc00/9cf9be50-832a-4dc7-90f0-ebb76430b128"
-      (reference "#PWR0227") (unit 1) (value "GND") (footprint "")
-    )
     (path "/bb0bb053-86b2-4a91-b561-8cb56049dc00/1455942a-d3ef-4554-b3fa-631a8a6d872b"
       (reference "#PWR0228") (unit 1) (value "GND") (footprint "")
     )
@@ -2006,9 +1997,6 @@
     )
     (path "/00000000-0000-0000-0000-00005cd18d89/00000000-0000-0000-0000-00005d7d1f30"
       (reference "D3") (unit 1) (value "PZU5.1B2A") (footprint "Diode_SMD:D_SOD-323")
-    )
-    (path "/00000000-0000-0000-0000-00005cd18d89/00000000-0000-0000-0000-00005ce4be58"
-      (reference "D4") (unit 1) (value "PZU5.1B2A") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/00000000-0000-0000-0000-00005cd18c17/00000000-0000-0000-0000-00005cd3e6c7"
       (reference "D5") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
@@ -2177,9 +2165,6 @@
     )
     (path "/00000000-0000-0000-0000-00005cd18d89/00000000-0000-0000-0000-00005ce5c8b7"
       (reference "R12") (unit 1) (value "2k4R") (footprint "Resistor_SMD:R_0805_2012Metric")
-    )
-    (path "/00000000-0000-0000-0000-00005cd18d89/00000000-0000-0000-0000-00005ce4ade3"
-      (reference "R13") (unit 1) (value "1kR") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00006257c513/00000000-0000-0000-0000-000062600af4"
       (reference "R14") (unit 1) (value "1kR") (footprint "Resistor_SMD:R_0402_1005Metric")

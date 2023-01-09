@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.10)*
-G04 #@! TF.CreationDate,2023-01-07T23:02:07+01:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9)*
+G04 #@! TF.CreationDate,2023-01-09T10:20:38+01:00*
 G04 #@! TF.ProjectId,Speeduino 1990 Rev2 3SGE ECU adapter 174518-7,53706565-6475-4696-9e6f-203139393020,1*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Copper,L1,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.10)) date 2023-01-07 23:02:07*
+G04 Created by KiCad (PCBNEW (6.0.9)) date 2023-01-09 10:20:38*
 %MOMM*%
 %LPD*%
 G01*
